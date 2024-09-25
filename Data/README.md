@@ -1,6 +1,6 @@
 # Data
 
-The folder `all_phenotypes` contains phenotype files for all 8 phages -- the phenotype in this case is the susceptibility of all the isolates to a phage, displayed in binary format (0: not infected, 1: infected)
+The folder `all_phenotypes` contains phenotype files for all 8 phages. The phenotype in this case is the susceptibility of all the isolates to a phage, displayed in binary format (0: not infected, 1: infected).
 
 `gene_presence_absence.Rtab` contains a presence/absence matrix of genes and clusters of orthologous genes (COGs) in all the isolates.
 
